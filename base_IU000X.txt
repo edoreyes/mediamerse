@@ -1,0 +1,8 @@
+<script type='text/javascript' src='http://www.mediamerse.com/testpage/bitdash-player/browser.js'>
+if browserName = "Chrome"
+show = "<iframe src='http://www.mediamerse.com/testpage/IU0001/IU0001_d.html' width='100%' frameborder='0' allowfullscreen='allowfullscreen'></iframe>";
+else {
+show = "<img src='http://mediamerse.com/testpage/IU0001/test001.png' style='width:100%;height:100%;' />";
+}
+ document.write(show);
+</script>
