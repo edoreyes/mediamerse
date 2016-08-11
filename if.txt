@@ -1,0 +1,8 @@
+<script type="text/javascript">
+var type;
+var browserName;
+if (browserName == "Chrome") {
+    type = 100;
+} else { type = 200; }
+document.write(type);
+</script>
