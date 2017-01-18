@@ -1,0 +1,13 @@
+<!--This tag is the one that we need to set in DFP Creative Level-->
+<!--This tag is for a video 640x360 + 160 extra for the instructions in horizontal-->
+<iframe width="800" height="360" scrolling="no" frameBorder="0" src="http://www.mediamerse.live/UI0XX-VN0YY/UI0XX-VN0YY_SH.html" id="external-frame">
+</iframe>
+<!--This tag is for a video 640x420 + 60 extra for the instructions in vertical-->
+<iframe width="640" height="420" scrolling="no" frameBorder="0" src="http://www.mediamerse.live/UI0XX-VN0YY/UI0XX-VN0YY_SV.html" id="external-frame">
+</iframe>
+<!--This tag is for a video 320x180: Mobile Devices-->
+<iframe width="320" height="180" scrolling="no" frameBorder="0" src="http://www.mediamerse.live/UI0XX-VN0YY/UI0XX-VN0YY_mob.html" id="external-frame">
+</iframe>
+<!--This tag is for a video 320x180: VR Headset ready-->
+<iframe width="320" height="180" scrolling="no" frameBorder="0" src="http://www.mediamerse.live/UI0XX-VN0YY/UI0XX-VN0YY_VR.html" id="external-frame">
+</iframe>
